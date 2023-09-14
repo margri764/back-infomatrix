@@ -1,0 +1,25 @@
+{
+  "name": "back-infomatrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "FeintdEvs",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.3.1",
+    "express-validator": "^6.14.0",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.3",
+    "mongoose": "^6.3.3",
+    "nodemailer": "^6.7.5",
+    "nodemon": "^3.0.1",
+    "validatorjs": "^3.22.1"
+  }
+}
